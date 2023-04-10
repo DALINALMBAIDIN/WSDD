@@ -3,16 +3,23 @@ WSDD: Wheat Supply and Demand Benchmark Dataset
 
 1) Demand dataset: Considered different related features such as 
 •	income
+
 •	population 
+
 •	wheat price 
+
 •	price
 
 Demand data and agricultural data have been collected from extracted from:
 
 •	The US Department of Agriculture USDA (Agriculture data)
+
 •	The Foreign Agricultural Service (Agriculture data)
+
 •	The Food and Agriculture Organization of the United Nations. (Agriculture data)
+
 •	World Bank Open data. (Income And Population)
+
 •	FRED economic Data (Prices)
 
 The Demand data set contains 33 features with 265 cases, the cases represent data for each month for 20 years (2000-2020), and the data collected as a time series represented by the date of the first of each month. The countries represented as features “12 Countries”
